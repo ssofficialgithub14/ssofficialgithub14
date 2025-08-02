@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Saurabh
+A passionate software developer and computer science student from India 🇮🇳
 
-<!--
-**ssofficialgithub14/ssofficialgithub14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 My Tech Stack
+- 💻 Languages: C++, Python, JavaScript
+- 🌐 Web: HTML, CSS, React, Node.js
+- ☁️ Cloud: Firebase, Vercel
+- 🛠️ Tools: Git, VS Code, Postman
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
+![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssofficialgithub14&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Achievements
+[![trophy](https://github-profile-trophy.vercel.app/?username=ssofficialgithub14&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📈 Visitors
+![Visitor Count](https://komarev.com/ghpvc/?username=ssofficialgithub14&label=Visitors)
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINK)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:YOUR-EMAIL@gmail.com)
