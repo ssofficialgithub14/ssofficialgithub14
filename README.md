@@ -1,6 +1,6 @@
 <!-- Profile Banner (optional) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F70000&width=435&lines=Hi+%F0%9F%91%8B+I'm+Saurabh;CSE+Student+%7C+Coder+%7C+Explorer;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F70000&width=435&lines=Hi+%F0%9F%91%8B+I'm+Saurabh;CSE+Student+%7C+Coder+%8C+Explorer;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
 ---
@@ -55,6 +55,4 @@
 ---
 
 ### 🔥 Visitor Count
-
-```markdown
 ![Visitor Count](https://komarev.com/ghpvc/?username=ssofficialgithub14&label=Visitors&color=0e75b6&style=flat)
