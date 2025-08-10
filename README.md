@@ -6,11 +6,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🧠 I’m an engineering student passionate about **software, systems & survival thinking**
-- 💡 I love solving real-world problems through code
-- 🌐 Currently exploring: **Machine Learning**, **Cloud**, and **Full Stack Development**
-- 🌱 I’m learning **AI foundations**, **ReactJS**, and **DevOps**
-- 🛠️ Building projects that blend **creativity**, **efficiency**, and **impact**
+- 🎓 CS Student | @Unstop Campus Ambassador | Full Stack Developer | C++ & Java Practitioner | System Thinker | Focused on Scalable Solutions | Lifelong Learner | Building Beyond Code
 
 ---
 
