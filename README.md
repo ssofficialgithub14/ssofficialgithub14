@@ -1,16 +1,16 @@
 <!-- Profile Banner (optional) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F70000&width=435&lines=Hi+%F0%9F%91%8B+I'm+Saurabh;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=white&width=435&lines=Hi+%F0%9F%91%8B+I'm+Saurabh;" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 - 🎓 CS Student | @Unstop Campus Ambassador | Full Stack Developer | C++ & Java Practitioner | System Thinker | Focused on Scalable Solutions | Lifelong Learner | Building Beyond Code
 
 ---
 
-### 🚀 Tech Stack & Tools
+### Tech Stack & Tools
 
 <div align="center">
   
@@ -50,5 +50,5 @@
 
 ---
 
-### 🔥 Visitor Count
+### Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=ssofficialgithub14&label=Visitors&color=0e75b6&style=flat)
